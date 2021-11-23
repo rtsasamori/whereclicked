@@ -1,2 +1,0 @@
-# whereclicked
-detects where clicked
